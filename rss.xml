@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[burodeconfianza]]></title>
         <description><![CDATA[burodeconfianza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/burodeconfianza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 15:39:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 15:46:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/burodeconfianza/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>•Somos una empresa mexicana especializada en el análisis y pronóstico de la conducta humana en el sector laboral mexicano.</p>]]></description>
-            <link>undefinedsomos-una-empresa-mexicana-especializada-en-el-analisis-y-p/index.html</link>
+            <link>https://thegrid.ai/burodeconfianza/somos-una-empresa-mexicana-especializada-en-el-analisis-y-p/index.html</link>
             <guid isPermaLink="false">b47f44c3-bf38-451e-a706-c3527e054cef</guid>
-            <pubDate>Wed, 13 Jul 2016 15:39:07 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2016 15:46:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
